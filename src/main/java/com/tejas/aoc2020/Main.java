@@ -24,8 +24,12 @@ public class Main {
 //        System.out.println("Part 1 = " + Day5.part1("day5/part1.txt"));
 //        System.out.println("Part 2 = " + Day5.part2("day5/part2.txt"));
 
-        System.out.println("Day 6");
-        System.out.println("Part 1 = " + Day6.part1("day6/part1.txt"));
-        System.out.println("Part 2 = " + Day6.part2("day6/part2.txt"));
+//        System.out.println("Day 6");
+//        System.out.println("Part 1 = " + Day6.part1("day6/part1.txt"));
+//        System.out.println("Part 2 = " + Day6.part2("day6/part2.txt"));
+
+        System.out.println("Day 7");
+        System.out.println("Part 1 = " + Day7.part1("day7/part1.txt"));
+        System.out.println("Part 2 = " + Day7.part2("day7/part2.txt"));
     }
 }
