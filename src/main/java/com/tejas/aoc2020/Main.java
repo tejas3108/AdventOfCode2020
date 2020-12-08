@@ -28,8 +28,12 @@ public class Main {
 //        System.out.println("Part 1 = " + Day6.part1("day6/part1.txt"));
 //        System.out.println("Part 2 = " + Day6.part2("day6/part2.txt"));
 
-        System.out.println("Day 7");
-        System.out.println("Part 1 = " + Day7.part1("day7/part1.txt"));
-        System.out.println("Part 2 = " + Day7.part2("day7/part2.txt"));
+//        System.out.println("Day 7");
+//        System.out.println("Part 1 = " + Day7.part1("day7/part1.txt"));
+//        System.out.println("Part 2 = " + Day7.part2("day7/part2.txt"));
+
+//        System.out.println("Day 8");
+//        System.out.println("Part 1 = " + Day8.part1("day8/part1.txt"));
+//        System.out.println("Part 2 = " + Day8.part2("day8/part2.txt"));
     }
 }
