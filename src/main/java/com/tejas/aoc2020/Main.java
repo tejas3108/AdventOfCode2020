@@ -37,9 +37,14 @@ public class Main {
         System.out.println("Part 1 = " + Day8.part1("day8/part1.txt"));
         System.out.println("Part 2 = " + Day8.part2("day8/part2.txt"));
 
-         */
+
         System.out.println("Day 9");
         System.out.printf("Part 1 = %.0f\n", Day9.part1("day9/part1.txt"));
         System.out.printf("Part 2 = %.0f\n", Day9.part2("day9/part2.txt"));
+        */
+
+        System.out.println("Day 10");
+        System.out.println("Part 1 = " + Day10.part1("day10/part1.txt"));
+        System.out.printf("Part 2 = %.0f\n", Day10.part2("day10/part2.txt"));
     }
 }
