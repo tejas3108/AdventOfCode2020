@@ -45,10 +45,23 @@ public class Main {
         System.out.println("Day 10");
         System.out.println("Part 1 = " + Day10.part1("day10/part1.txt"));
         System.out.printf("Part 2 = %.0f\n", Day10.part2("day10/part2.txt"));
-        */
 
         System.out.println("Day 11");
         System.out.println("Part 1 = " + Day11.part1("day11/part1.txt"));
         System.out.println("Part 2 = " + Day11.part2("day11/part2.txt"));
+
+
+        System.out.println("Day 12");
+        //System.out.println("Part 1 = " + Day12.part1("day12/part1.txt"));
+        System.out.println("Part 2 = " + Day12.part2("day12/part2.txt"));
+
+        System.out.println("Day 13");
+        System.out.printf("Part 1 = %.0f\n", Day13.part1("day13/part1.txt"));
+        //System.out.println("Part 2 = " + Day12.part2("day12/part2.txt"));
+        */
+
+        System.out.println("Day 14");
+        System.out.printf("Part 1 = %.0f\n", Day14.part1("day14/part1.txt"));
+        //System.out.println("Part 2 = " + Day12.part2("day12/part2.txt"));
     }
 }
