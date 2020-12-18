@@ -66,10 +66,18 @@ public class Main {
         System.out.println("Day 15");
         System.out.println("Part 1 = " + Day15.part1("day15/part1.txt"));
         System.out.println("Part 2 = " + Day15.part2("day15/part2.txt"));
-        */
 
         System.out.println("Day 16");
-        //System.out.println("Part 1 = " + Day16.part1("day16/part1.txt", false));
+        System.out.println("Part 1 = " + Day16.part1("day16/part1.txt", false));
         System.out.printf("Part 2 = %.0f\n", Day16.part2("day16/part2.txt"));
+
+        System.out.println("Day 17");
+        System.out.println("Part 1 = " + Day17.part1("day17/part1.txt"));
+        //System.out.printf("Part 2 = %.0f\n", Day16.part2("day16/part2.txt"));
+        */
+
+        System.out.println("Day 18");
+        //System.out.printf("Part 1 = %.0f\n", Day18.part1("day18/part1.txt"));
+        System.out.printf("Part 2 = %.0f\n", Day18.part2("day18/part2.txt"));
     }
 }
